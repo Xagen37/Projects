@@ -1,2 +1,5 @@
 # Projects
-The most memorable and/or representative projects
+
+[Bimap](bimap)<br>
+
+[Mandelbrot's set](Mandelbrot)
